@@ -340,3 +340,7 @@ for pj in turnos_ordenados:
             pj.realizar_ataque(objetivo)
         opc = int(input("Opción: "))
     print(objetivo)
+
+
+
+    print(waaaaaaaa)
